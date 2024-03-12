@@ -1,0 +1,29 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to React",
+      "description": "Learn the basics of React, including components, state, and props."
+    },
+    {
+      "id": 2,
+      "title": "Advanced React",
+      "description": "Dive deeper into React with hooks, context, and advanced patterns."
+    }
+  ],
+  "students": [
+    {
+      "name": "ABC",
+      "id": 1
+    }
+  ],
+  "enrollments": [
+    {
+      "studentId": "1",
+      "courseId": "1",
+      "progress": "20",
+      "id": 1
+    }
+  ],
+  "progress": []
+}
